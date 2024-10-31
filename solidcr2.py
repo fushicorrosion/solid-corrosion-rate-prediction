@@ -5,7 +5,7 @@ import joblib
 st.set_page_config(page_title="腐蚀速率预测界面", layout="wide")
 
 # 页面标题
-st.markdown("<h1 style='text-align: center; color: black;'>腐蚀速率预测界面</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>腐蚀速率预测</h1>", unsafe_allow_html=True)
 st.markdown("<div style='background-color: blue; height: 5px;'></div>", unsafe_allow_html=True)
 st.markdown("---")  # 添加分隔线
 
